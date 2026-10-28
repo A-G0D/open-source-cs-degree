@@ -5,3 +5,6 @@
 ^https?://(www\.)?linkedin\.com/
 ^https?://(www\.)?twitter\.com/
 ^https?://(www\.)?x\.com/
+
+# Stanford CS229 times out for automated clients but returns 200 to browsers
+^https?://cs229\.stanford\.edu/
